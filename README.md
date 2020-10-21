@@ -62,5 +62,5 @@ Vamos trocar os áudios do helicóptero da polícia, apenas de exemplo.
 
 9. Teste in-game, a maioria dos áudios poderão ser testados com o mod "Testar Sons" incluso nas ferramentas, mas neste caso como são falas do Suporte Aéreo do Helicóptero da Polícia você terá que estar próximo de um para realizar o teste. Simplesmente certifique-se que você está apto a ter níveis de procurado no seu jogo (Nenhum código/mod que bloqueie ativo) e digite o cheat "BRINGITON", [teleporte-se](https://www.mixmods.com.br/2019/06/super-fast-teleporter.html) para um local alto isolado de outros sons, e de fácil acesso pelo ar para que o Suporte Aéreo consiga alcançar (Recomendo o topo do Maze Bank).
 
-10. Parabéns, se estiver tudo ok envie para nós através de uma PR.
+10. Parabéns, se estiver tudo ok envie para nós através de uma PR e você entrará na lista de créditos.
 
