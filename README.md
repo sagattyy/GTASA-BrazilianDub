@@ -41,7 +41,7 @@ Após a organização correta, abra o _Referência SAAT.txt_. Você verá uma li
 
 ### Exemplo com o SAAT FrontEnd
 
-Vamos trocar os áudios do helicóptero da polícia.
+Vamos trocar os áudios do helicóptero da polícia, apenas de exemplo.
 
 1. Ao abrir o programa você terá que indicar a pasta de trabalho (Onde serão extraídos os áudios originais do jogo) e a pasta do GTA San Andreas;
 2. Indicando e entrando na pasta audio, você terá que indicar qual arquivo extrair. A lista de referência é uma boa base para saber o que há dentro de cada um;
