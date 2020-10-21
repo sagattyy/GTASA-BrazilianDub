@@ -9,6 +9,7 @@
  * [Vozes 1](https://drive.google.com/file/d/1-0etIGLhm7OEVZB4wCXdiTqNJMipqUYs)
  * [Vozes 2](http://drive.google.com/file/d/1ut3zmpCanYMjA3I-qRBSkQptywAaP_xP)
  * [Lista de Diálogos do GTA SA](https://gta.fandom.com/wiki/Dialogues_in_GTA_San_Andreas#Police)
+ * [modloader](https://www.mixmods.com.br/2015/01/SA-Modloader.html)
 
 
 
