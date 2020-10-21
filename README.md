@@ -52,8 +52,7 @@ Vamos trocar os áudios do helicóptero da polícia, apenas de exemplo.
 
 4. Expanda o SPC_FA para assim extraí-lo e busque o Bank_011 que é onde estão os áudios da Guarda Costeira e do Suporte Aéreo do Helicoptero da Polícia;
 
-5. Você terá que escutar os áudios para saber discernir quais são os áudios do Suporte Aéreo já que são semelhantes com os da Guarda Costeira, [clique aqui]
-(https://gta.fandom.com/wiki/Dialogues_in_GTA_San_Andreas#Police) para ser redirecionado a uma lista de diálogos do GTA San Andreas;
+5. Você terá que escutar os áudios para saber discernir quais são os áudios do Suporte Aéreo já que são semelhantes com os da Guarda Costeira, a lista de diálogos pode ajudar.
 
 6. Imaginando que você já tenha todos arquivos de áudios organizados, encontre uma frase dublada que esteja no mesmo/semelhante contexto da frase original do jogo e substitua através do SAAT;
 
