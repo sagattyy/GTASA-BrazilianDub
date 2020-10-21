@@ -24,7 +24,7 @@
 
 # **Quem pode contribuir?**
 
-Qualquer um.
+Qualquer um, será MUITO bem-vindo. Se quiser ter um contato mais próximo com a equipe, faça parte do [Fórum MixMods](https://forum.mixmods.com.br/) que é onde nos encontramos.
 
 
 
