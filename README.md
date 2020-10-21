@@ -15,9 +15,14 @@
 
 - [ ] Organizar os áudios em pastas
 
-_A organização deve ser feita de acordo com o mod Testar Sons incluido nas ferramentas, criando pastas para cada contexto e dentro delas separar as vozes dos mesmos dubladores._
-
 - [ ] Implementar os áudios correspondentes no jogo
 
 - [ ] Eliminar sons que não houve possibilidade de encontrar correspondente
 
+
+# **Quem pode contribuir?**
+
+Qualquer um.
+
+# **Como organizar as pastas?**
+A organização deve ser feita de acordo com o mod Testar Sons incluido nas ferramentas, criando pastas para cada contexto e dentro delas separar as vozes dos mesmos dubladores.
