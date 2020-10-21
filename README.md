@@ -1,5 +1,5 @@
-# **GTA SA Dubbing**
- Dubbing GTA San Andreas with pedestrian voicelines from other games
+# **What is this project?**
+ We are dubbing GTA San Andreas with brazilian portuguese voicelines from other games
  
  
  
