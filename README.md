@@ -24,5 +24,5 @@
 
 Qualquer um.
 
-# **Como organizar as pastas?**
+# **Tarefa 1** — Como organizar as pastas?
 A organização deve ser feita de acordo com o mod Testar Sons incluido nas ferramentas, criando pastas para cada contexto e dentro delas separar as vozes dos mesmos dubladores.
